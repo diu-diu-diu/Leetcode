@@ -1,7 +1,6 @@
-package main6;
+package matlab2cpp;
 
 import java.io.*;
-import java.util.*;
 import java.util.regex.Pattern;
 
 public class matlab2cpp {
