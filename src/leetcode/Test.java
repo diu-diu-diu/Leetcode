@@ -12,7 +12,7 @@ public class Test {
         String s = new String("asafasassdf");
         Leetcode459 l1 = new Leetcode459();
         l1.repeatedSubstringPattern(s);
-        System.out.println(s.indexOf(""));
+
 
     }
 }
