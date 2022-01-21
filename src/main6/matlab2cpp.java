@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 import java.util.regex.Pattern;
 
-public class main6 {
+public class matlab2cpp {
     static Pattern pattern = Pattern.compile("(.*)^2");
 
     public static void main(String[] args) throws IOException {
